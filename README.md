@@ -18,8 +18,11 @@ INSTRUCTION:
 if you need more user, just register and finally just write on vscode : php artisan serve 
 
 6- now it is ready. just start chat as a user in blue button at the bottom right (you don't need to be login, just write your name and start chat)
+
 7- if you logout chat (exit button), this chat will be over and if you start new chat with even the same name, new chat will be started and in admin panel will see 2 separete chat. so if any body want to see answer from admin, don't use exit button, 
+
 8- as a admin , you need to login . this chat can have some admin , the only condition for it is user_type must be 1 . (if you register or use seeder, it automatically make a admin with user_type = 1).
+
 9-if there was any new chat, blue button at the buttom right will show amount of all chats in red (notification). if you want to see who chat with you just press button : all chats to watch
 on this page, you can see all chats with their name and red notification, you also can delete them. 
 
